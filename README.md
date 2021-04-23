@@ -1,5 +1,6 @@
 # go-kamailio-api
-[![Go Report Card](https://goreportcard.com/report/github.com/arsperger/go-kamailio-api)](https://goreportcard.com/report/github.com/arsperger/go-kamailio-api)
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/arsperger/go-kamailio-api)](https://goreportcard.com/report/github.com/arsperger/go-kamailio-api)
 [![Build Status](https://www.travis-ci.com/arsperger/go-kamailio-api.svg?branch=main)](https://www.travis-ci.com/arsperger/go-kamailio-api)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/arsperger/go-kamailio-api/blob/main/LICENSE)
 
