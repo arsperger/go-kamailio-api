@@ -268,7 +268,7 @@ func GetSubscriberByID(ctx context.Context, pool *pgxpool.Pool, subID int) (*Sub
 	return &sub, nil
 }
 
-// GetSubscriberByUserName retuns nil if subscriber not found.
+// GetSubscriberByUserName returns nil if subscriber not found.
 func GetSubscriberByUserName(ctx context.Context, pool *pgxpool.Pool, subUserName string) error {
 
 	conn, err := pool.Acquire(ctx)
