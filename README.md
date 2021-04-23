@@ -1,6 +1,7 @@
 # go-kamailio-api
 
 REST API over HTTP and JSONRPC client
+
 Web server listens on HTTP and talks JSON-RPC 2.0
 
 The main idea is to abstract back-end VoIP related configuration complexities and provide simple endpoints for provisioning and management of voice core. This repo is simple example of CRUD operations for SIP accounts  and fetching registered devices.
