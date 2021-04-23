@@ -1,0 +1,11 @@
+{
+    "kamailio": {
+        "jsonrpcs_address": "10.10.10.14:8088"
+    },
+    "http": {
+        "listen_address": "0.0.0.0:8080"
+    },
+    "database": {
+        "dburl": ""
+    }
+}
